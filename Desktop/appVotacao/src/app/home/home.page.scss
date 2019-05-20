@@ -1,0 +1,27 @@
+ion-title{
+  text-align: center;
+  --background: red;
+}
+
+.Caixa1{
+  h3{
+    text-align: center;
+  }
+  ion-input{
+    margin-left: 60px;
+    
+
+  }
+}
+
+h2{
+  text-align: center;
+}
+ion-button{
+  --background : purple;
+  --color : white;
+  --background-activated : white;
+  --color-activated : black;
+    margin-left: 70px;
+    margin-top: -10px;
+}
